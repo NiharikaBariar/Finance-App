@@ -1,5 +1,5 @@
 // This program will print messages on the command line
-public class Assignment_1 {
+public class Assignment1 {
 
     public static void main(String[] args) {
         System.out.println("Hello, World");
